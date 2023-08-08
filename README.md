@@ -6,12 +6,19 @@ Made by : AMRAOUI Taher
 ![Screenshot 2023-06-21 012507](https://github.com/amraouitaher/TOMOGRAPHY-X/assets/140072456/e026749d-f12c-4afe-a8b2-a8b5bbea8aca)
 
 TOMOFRAPHY-X includes :
+
 image viwer of samples made by us ( welded pieces) and their projections by x-ray
+
 algortihmes of reconstruction : 
+
 FPEM 3D
+
 algorithmes of visualisation : 
+
 RayCasting
+
 Texture Mapping
+
 Maximum intensity projection MIP
 
 ![Screenshot 2023-06-21 012546](https://github.com/amraouitaher/TOMOGRAPHY-X/assets/140072456/504580f6-4dd5-4b65-b9dc-1fb23dfa5b26)
